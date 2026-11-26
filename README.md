@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280">
+
+*Proven-demand scalp rider for the pump.fun replay: rides only coins with broad one-sided flow and deep reserves, mechanical exits.*
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-0A1931?style=for-the-badge&labelColor=FF7A00&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00)](LICENSE) [![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00)](https://github.com/kontenlaris-studio)
+
+</div>
+
+---
+
 # pump-replay-sprint-01
 
 [![make.fun · u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122](https://make.fun/badge/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122.svg)](https://make.fun/bounty/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122?utm_source=github&utm_medium=readme&utm_campaign=u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122)
